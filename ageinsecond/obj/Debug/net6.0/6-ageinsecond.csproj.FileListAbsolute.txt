@@ -1,0 +1,15 @@
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/bin/Debug/net6.0/6-ageinsecond
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/bin/Debug/net6.0/6-ageinsecond.deps.json
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/bin/Debug/net6.0/6-ageinsecond.runtimeconfig.json
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/bin/Debug/net6.0/6-ageinsecond.dll
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/bin/Debug/net6.0/6-ageinsecond.pdb
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.csproj.AssemblyReference.cache
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.AssemblyInfo.cs
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.csproj.CoreCompileInputs.cache
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.dll
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/refint/6-ageinsecond.dll
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.pdb
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/6-ageinsecond.genruntimeconfig.cache
+/Users/joseconejerosivo/Proyectos C#/6-ageinsecond/obj/Debug/net6.0/ref/6-ageinsecond.dll
